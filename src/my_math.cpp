@@ -1,4 +1,7 @@
 #include <math.h>
+#include <ans_handler.hpp>
+#include <my_math.hpp>
+
 
 AnswerHandler my_sin(double x) {
     AnswerHandler ans;
