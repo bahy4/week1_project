@@ -8,5 +8,5 @@ int main (){
     double x;
     cin>>x;
     AnswerHandler ans = my_sin(x);
-    cout<<ans.x<<" "<<ans.y;
+    cout<<ans.x<<" "<<ans.y<<endl;
 }
